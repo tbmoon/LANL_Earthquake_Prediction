@@ -1,5 +1,7 @@
 # LANL_Earthquake_Prediction
 
+Results: 25th place out of 4540 teams
+
 ## References
 * Kaggle
   + https://www.kaggle.com/c/LANL-Earthquake-Prediction
