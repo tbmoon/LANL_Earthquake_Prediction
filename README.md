@@ -1,6 +1,6 @@
 # LANL_Earthquake_Prediction
 
-* Data: Time series data 
+* Dataset: Time series data 
 * Models: Spectrogram + Transformer
 * Results: 25th place of 4540 teams (Top 1% with Siver Medal)
 
