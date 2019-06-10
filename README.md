@@ -2,7 +2,7 @@
 
 ## References
 * Kaggle
-  + URL: https://www.kaggle.com/c/LANL-Earthquake-Prediction
+  + https://www.kaggle.com/c/LANL-Earthquake-Prediction
     
 * Transformer
   + http://jalammar.github.io/illustrated-transformer/
