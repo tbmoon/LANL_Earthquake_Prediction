@@ -1,7 +1,7 @@
 # LANL_Earthquake_Prediction
 
-Models: Spectrogram + Transformer
-Results: 25th place out of 4540 teams
+* Models: Spectrogram + Transformer
+* Results: 25th place out of 4540 teams
 
 ## References
 * Kaggle
